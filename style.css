@@ -1,0 +1,5 @@
+/* #map est l'ID qu'on a donné à notre <div> dans le HTML */
+#map {
+  height: 600px;
+  width: 100%;
+}
